@@ -1,0 +1,19 @@
+{
+    "2colors": {
+        "background": [ 0, 0, 0 ],
+        "shaft": [ 225, 225, 225 ] 
+    },
+    "4colors": {
+        "background": [ 0, 0, 0 ],
+        "shaft": [ 225, 225, 225 ], 
+        "needle": [ 250, 0, 0],
+        "thread": [ 0, 250, 0]
+    },
+    "5colors": {
+        "background": [ 0, 0, 0 ],
+        "shaft": [ 225, 225, 225 ], 
+        "gripper": [0, 0, 250],
+        "needle": [250, 0, 0],
+        "thread": [0, 250, 0]
+    }
+}
